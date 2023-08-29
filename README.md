@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **a project with framework TestNG, Cucumber, Appium**
 
-- 🌱 I’m currently learning **/**
+- 🌱 I’m currently develop **Cyspress/**
 
 - 📫 How to reach me **fathermountain@gmail.com**
 
